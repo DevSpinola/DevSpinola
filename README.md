@@ -2,11 +2,10 @@
 
 ###
 <div>
-  <h4 align="left">- 🔭 Hoje sou estagiário em Eng. de Dados<br>- 🌱 Atualmente estou estudando python e AWS!<br>- 😄 Pronomes: Ele/Dele<br>- ⚡ Fato Curioso: Entrei na faculdade sem saber nada sobre programação, e acabei me identificando muito com a área!</h4>
-  <img align="right" height="150" src="https://media.tenor.com/RFOAxNrEoccAAAAM/ryan-gosling-thumbs-up.gif"  /> 
+  <h4 align="left">- 🔭 Hoje sou estagiário em Eng. de Dados<br>- 🌱 Atualmente estou estudando python e AWS!<br>- 😄 Pronomes: Ele/Dele<br>- ⚡ Fato Curioso: Entrei na faculdade sem saber nada sobre programação, e acabei me identificando muito com a área!</h4>  
 </div>
 
-###
+####
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevSpinola&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=DevSpinola's%20GitHub%20Stats" height="200" alt="stats graph"  />
@@ -53,4 +52,8 @@
 </div>
 
 ###
+<div align="center">
+  <img align="center" height="150" src="https://media.tenor.com/RFOAxNrEoccAAAAM/ryan-gosling-thumbs-up.gif" alt="Thumbs up gif" />
+</div>
+
 
