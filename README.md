@@ -1,8 +1,10 @@
 <h2 align="left">Olá! Meu nome é Guilherme Spinola</h2>
 
 ###
-
-<h4 align="left">- 🔭 Hoje sou estagiário em Eng. de Dados<br>- 🌱 Atualmente estou estudando python e AWS!<br>- 😄 Pronomes: Ele/Dele<br>- ⚡ Fato Curioso: Entrei na faculdade sem saber nada sobre programação, e acabei me identificando muito com a área!</h4>
+<div>
+  <h4 align="left">- 🔭 Hoje sou estagiário em Eng. de Dados<br>- 🌱 Atualmente estou estudando python e AWS!<br>- 😄 Pronomes: Ele/Dele<br>- ⚡ Fato Curioso: Entrei na faculdade sem saber nada sobre programação, e acabei me identificando muito com a área!</h4>
+  <img align="right" height="150" src="https://media.tenor.com/RFOAxNrEoccAAAAM/ryan-gosling-thumbs-up.gif"  /> 
+</div>
 
 ###
 
@@ -41,12 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="150" src="https://media.tenor.com/RFOAxNrEoccAAAAM/ryan-gosling-thumbs-up.gif"  />
 
 ###
 
