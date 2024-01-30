@@ -1,8 +1,8 @@
-<h2 align="left">Olá! Meu nome é Guilherme Spinola</h2>
+<h2 align="left">Hello! My name is Guilherme Spinola</h2>
 
 ###
 <div>
-  <h4 align="left">- 🔭 Hoje sou estagiário em Eng. de Dados<br>- 🌱 Atualmente estou estudando python e AWS!<br>- 😄 Pronomes: Ele/Dele<br>- ⚡ Fato Curioso: Entrei na faculdade sem saber nada sobre programação, e acabei me identificando muito com a área!</h4>  
+  <h4 align="left">- 🔭 Currently I'm an intern in Data Engineering<br>- 🌱 I'm currently studying python and AWS!<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun Fact: I went to college without knowing anything about programming, and I ended up identifying a lot with the area!</h4>  
 </div>
 
 ####
@@ -11,6 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DevSpinola&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=DevSpinola's%20GitHub%20Stats" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevSpinola&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">Programming Languages</h3>
 
 ###
 
@@ -24,15 +28,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="amazonwebservices logo"  />
 </div>
 
 ###
+
+<h3 align="center">Tools & Frameworks</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="amazonwebservices logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
+</div>
+
+###
+
 
 <div align="center">
   <a href="mailto:guispinolas@gmail.com" target="_blank">
