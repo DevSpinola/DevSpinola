@@ -2,7 +2,7 @@
 
 ###
 <div>
-  <h4 align="left">- 🔭 Currently I'm a Data Engineering <br>- 🌱 I'm currently studying pyspark and AWS!<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun Fact: I went to college without knowing anything about programming, and I ended up identifying a lot with the area!</h4>  
+  <h4 align="left">- 🔭 Currently I'm a Data Engineer <br>- 🌱 I'm currently studying pyspark and AWS!<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun Fact: I went to college without knowing anything about programming, and I ended up identifying a lot with the area!</h4>  
 </div>
 
 ####
